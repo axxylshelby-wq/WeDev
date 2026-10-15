@@ -124,7 +124,7 @@ export const SISWA = [
   { nama: "Silvi Oktaviani", ig: "", foto: "" },
   { nama: "Winda Octavia Hutagaol", ig: "", foto: "" },
   { nama: "Yuriz Pratama Simangunsong", ig: "", foto: "" },
-  { nama: "Zaid Afham", ig: "@zaidafhamm28", foto: "https://image-link.edgeone.app/1792031505798-8igh94.jpg" },
+  { nama: "Zaid Afham", ig: "@zaidafhamm28", foto: "https://files.catbox.moe/ahz51p.jpg" },
 ];
 
 // Gallery foto kegiatan
