@@ -133,7 +133,7 @@ export const GALLERY = [
   { src: "", caption: "Study tour" }, { src: "", caption: "Hari kemerdekaan" },
   { src: "", caption: "Class meeting" }, { src: "", caption: "Perpisahan" },
   { src: "", caption: "Praktik lab" }, { src: "", caption: "Hari guru" },
-];ig:awaanaadk
+];
 
 // Prestasi
 export const PRESTASI = [
