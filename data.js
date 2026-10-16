@@ -108,7 +108,7 @@ export const SISWA = [
   { nama: "Nabila Syakieb Pohan", ig: "", foto: "" },
   { nama: "Najwa Asifa", ig: "", foto: "" },
   { nama: "Nayra Oktyaviani", ig: "", foto: "" },
-  { nama: "Nazla Ramadhani", ig: "", foto: "" },
+  { nama: "Nazla Ramadhani", ig: "favv_haniii10", foto: "https://files.catbox.moe/q4z2xv.jpg" },
   { nama: "Nazwa Salsabila", ig: "awaanaad", foto: "https://files.catbox.moe/0kx55r.jpg" },
   { nama: "Nia Ramadhani", ig: "", foto: "" },
   { nama: "Nova Annisa", ig: "", foto: "" },
