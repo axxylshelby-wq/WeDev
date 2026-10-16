@@ -122,7 +122,7 @@ export const SISWA = [
   { nama: "Sartika Zahirah", ig: "", foto: "" },
   { nama: "Sherly Handayani", ig: "", foto: "" },
   { nama: "Silvi Oktaviani", ig: "", foto: "" },
-  { nama: "Winda Octavia Hutagaol", ig: "", foto: "" },
+  { nama: "Winda Octavia Hutagaol", ig: "_wwindaa3", foto: "https://files.catbox.moe/ydqdgy.jpg" },
   { nama: "Yuriz Pratama Simangunsong", ig: "", foto: "" },
   { nama: "Zaid Afham", ig: "@zaidafhamm28", foto: "https://files.catbox.moe/ahz51p.jpg" },
 ];
