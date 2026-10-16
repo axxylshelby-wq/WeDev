@@ -68,7 +68,7 @@ export const STRUKTUR = {
   wali: { peran: "Wali Kelas", nama: "Frau Suci" },
   pimpinan: [{ peran: "Ketua Kelas", nama: "Randova" }, { peran: "Wakil Ketua", nama: "Safira" }],
   pengurus: [
-    { peran: "Sekretaris 1", nama: "Najwa", w: "green" },
+    { peran: "Sekretaris 1", nama: "Nazwa", w: "green" },
     { peran: "Sekretaris 2", nama: "Winda", w: "green" },
     { peran: "Bendahara 1", nama: "Nisa", w: "pink" },
     { peran: "Bendahara 2", nama: "Citra", w: "pink" },
@@ -109,7 +109,7 @@ export const SISWA = [
   { nama: "Najwa Asifa", ig: "", foto: "" },
   { nama: "Nayra Oktyaviani", ig: "", foto: "" },
   { nama: "Nazla Ramadhani", ig: "", foto: "" },
-  { nama: "Nazwa Salsabila", ig: "", foto: "" },
+  { nama: "Nazwa Salsabila", ig: "awaanaad", foto: "https://files.catbox.moe/0kx55r.jpg" },
   { nama: "Nia Ramadhani", ig: "", foto: "" },
   { nama: "Nova Annisa", ig: "", foto: "" },
   { nama: "Radit Abdul Fattah", ig: "", foto: "" },
@@ -133,7 +133,7 @@ export const GALLERY = [
   { src: "", caption: "Study tour" }, { src: "", caption: "Hari kemerdekaan" },
   { src: "", caption: "Class meeting" }, { src: "", caption: "Perpisahan" },
   { src: "", caption: "Praktik lab" }, { src: "", caption: "Hari guru" },
-];
+];ig:awaanaadk
 
 // Prestasi
 export const PRESTASI = [
