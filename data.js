@@ -119,7 +119,7 @@ export const SISWA = [
   { nama: "Reyfan Ryan Putra", ig: "", foto: "" },
   { nama: "Rio Andika", ig: "", foto: "" },
   { nama: "Safira Rahmadani", ig: "", foto: "" },
-  { nama: "Sartika Zahirah", ig: "", foto: "" },
+  { nama: "Sartika Zahirah", ig: "stk_zeraa12", foto: "https://files.catbox.moe/am7nox.jpg" },
   { nama: "Sherly Handayani", ig: "", foto: "" },
   { nama: "Silvi Oktaviani", ig: "", foto: "" },
   { nama: "Winda Octavia Hutagaol", ig: "_wwindaa3", foto: "https://files.catbox.moe/ydqdgy.jpg" },
