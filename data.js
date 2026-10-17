@@ -90,7 +90,7 @@ export const SISWA = [
   { nama: "Azka Raffa Nasution", ig: "", foto: "" },
   { nama: "Citra Putri Syakila", ig: "", foto: "" },
   { nama: "Delvino", ig: "", foto: "" },
-  { nama: "Dinda Dwi Lestari", ig: "", foto: "" },
+  { nama: "Dinda Dwi Lestari", ig: "ayy.uwiii_", foto: "https://files.catbox.moe/rbcb22.jpg" },
   { nama: "Dino Revaldo Hutabarat", ig: "", foto: "" },
   { nama: "Fari Ramadan", ig: "", foto: "" },
   { nama: "Fatih Fathoni", ig: "", foto: "" },
